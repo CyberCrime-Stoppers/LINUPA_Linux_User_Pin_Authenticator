@@ -21,8 +21,8 @@
 #-------------------------------------------------------------------------------
 # Your personal domain hosting LINUPA driver packages.
 # Layout expected on the server (adjust DRIVER_PATH if you store elsewhere):
-#   https://YOUR-DOMAIN/linupa/drivers/<distro>/<pkg-name>.<ext>
-#   https://YOUR-DOMAIN/linupa/drivers/<distro>/SHA256SUMS
+#   https://ld-sos.unixinbox.com/linupa/drivers/<distro>/<pkg-name>.<ext>
+#   https://ld-sos.unixinbox.com/linupa/drivers/<distro>/SHA256SUMS
 DOWNLOAD_DOMAIN=""          # e.g. "https://example.ca"  (leave blank to skip)
 DRIVER_PATH="/linupa/drivers"   # path relative to domain
 VERIFY_CHECKSUMS="yes"      # yes/no - verify SHA256SUMS after download
