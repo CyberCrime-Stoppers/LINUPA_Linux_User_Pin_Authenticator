@@ -3,7 +3,8 @@
 #!/usr/bin/env bash
 #===============================================================================
 #  LINUPA.sh - Linux Fingerprint Reader & Driver Finder
-#  Part of the CyberCrime-Stoppers toolset
+#  Part of the CyberCrime-Stoppers toolset (L3DPS.sh)
+
 #
 #  Purpose:
 #    1) Detect fingerprint readers/hardware on this Linux machine
@@ -11,7 +12,7 @@
 #    2) Check which fingerprint drivers exist on your personal domain
 #    3) Optionally download + verify (sha256) a matching driver package
 #
-#  Author: Linus (CyberCrime-Stoppers) with Lumo
+#  Author: Scott (CyberCrime-Stoppers)
 #  License: GPL-3.0-or-later
 #===============================================================================
 
