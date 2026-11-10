@@ -12,7 +12,7 @@
 #    2) Check which fingerprint drivers exist on your personal domain
 #    3) Optionally download + verify (sha256) a matching driver package
 #
-#  Author: Scott (CyberCrime-Stoppers)
+#  Author: Scott Dev (CyberCrime-Stoppers)
 #  License: GPL-3.0-or-later
 #===============================================================================
 
