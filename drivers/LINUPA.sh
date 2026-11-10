@@ -23,7 +23,7 @@
 # Layout expected on the server (adjust DRIVER_PATH if you store elsewhere):
 #   https://ld-sos.unixinbox.com/linupa/drivers/<distro>/<pkg-name>.<ext>
 #   https://ld-sos.unixinbox.com/linupa/drivers/<distro>/SHA256SUMS
-DOWNLOAD_DOMAIN="verified-drivers.unixinbox.com"        # Verification and trusted drivers
+DOWNLOAD_DOMAIN="ld-sos.unixinbox.com"        # Verification and trusted drivers
 DRIVER_PATH="/linupa/drivers"   # path relative to domain
 VERIFY_CHECKSUMS="yes"      # yes/no - verify SHA256SUMS after download
 DOWNLOAD_DIR="$HOME/linupa-downloads"
